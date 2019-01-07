@@ -7,7 +7,7 @@ spring:
     password: sailing
     url: jdbc:mysql://127.0.0.1:3306/SpringCloud_Sell?characterEncoding=utf8&useSSL=false
 env:
-  test
+  test2222222
 girl:
   name: lili
   age: 20
