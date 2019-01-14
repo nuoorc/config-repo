@@ -11,6 +11,9 @@ spring:
     port: 5672
     username: admin
     password: admin
+  redis:
+    host: 172.20.33.208
+    port: 6379
 env:
   test
 girl:
