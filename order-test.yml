@@ -2,7 +2,7 @@ spring:
   application:
     name: order
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.CJ.jdbc.Driver
     username: root
     password: sailing
     url: jdbc:mysql://127.0.0.1:3306/SpringCloud_Sell?characterEncoding=utf8&useSSL=false
