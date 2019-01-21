@@ -1,0 +1,13 @@
+env: dev
+girl:
+  age: 24
+  name: lili
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: sailing
+    url: jdbc:mysql://127.0.0.1:3306/SpringCloud_Sell?characterEncoding=utf8&useSSL=false
+    username: root
+  redis:
+    host: 172.20.33.180
+    port: 6379
