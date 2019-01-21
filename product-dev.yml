@@ -5,12 +5,12 @@ spring:
     password: sailing
     url: jdbc:mysql://127.0.0.1/SpringCloud_Sell?characterEncoding=utf-8&useSSL=false
   rabbitmq:
-    host: 172.20.33.222
+    host: 172.20.33.180
     port: 5672
     username: admin
     password: admin
   redis:
-    host: 172.20.33.222
+    host: 172.20.33.180
     port: 6379
   jpa:
     show-sql: true
